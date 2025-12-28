@@ -10,3 +10,5 @@ public class Lab148_SB {
         System.out.println(sb); //Output - C++ Programming
     }
 }
+//Output  - Java Programming
+//C++ Programming
