@@ -10,8 +10,10 @@ public class Lab159_P2 {
         amit.name = "Amit sharma";
         amit.doAssignment();
 
-        Baby b1 = new Baby();
+        /*Baby b1 = new Baby();
         Baby b2 = new Baby();
         Baby b3 = new Baby();
+
+         */
     }
 }
