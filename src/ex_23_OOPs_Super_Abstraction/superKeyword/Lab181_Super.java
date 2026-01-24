@@ -1,4 +1,4 @@
-package ex_22_OOPs_accessModifier.superKeyword;
+package ex_23_OOPs_Super_Abstraction.superKeyword;
 
 public class Lab181_Super {
 }
