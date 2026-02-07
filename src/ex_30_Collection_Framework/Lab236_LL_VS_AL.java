@@ -8,5 +8,7 @@ public class Lab236_LL_VS_AL {
         // This time we will use LL(LinkedList)
         //Scenario - 2 Prone to accessing elements - AL, LL
         // This time we will use AL(ArrayList)
+
+        //If we want to access both the elements(LinkedList & ArrayList) then we go with ArrayList
     }
 }
