@@ -1,4 +1,4 @@
-package ex_30_Collection_Framework;
+package ex_30_Collection_Framework.CF_01_LIST;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;//List is the father of LinkedList
