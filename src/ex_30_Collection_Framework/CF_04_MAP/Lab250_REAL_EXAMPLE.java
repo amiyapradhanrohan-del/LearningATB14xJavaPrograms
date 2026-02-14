@@ -19,6 +19,12 @@ public class Lab250_REAL_EXAMPLE {
 
         //Generally HashMap and MAP are used for sending the data from Map to JSON, JSON to Map - API Automation
 
+        //Web Selenium - Store the Webelements with keys.
+
+        Map<String,String> map = new HashMap(10);
+        // initialCapacity -> 10
+        // 20 -> Load * new value = Total Capacity -> Hashmap -> increased.
+
 
     }
 }
